@@ -3,7 +3,7 @@
 This repository serves as a portfolio of my blockchain and Solidity-related projects. Here, you can find scripts to visualize how a blockchain works, along with various smart contract projects demonstrating different functionalities and use cases.
 
 ### Full stack
-- [SolidityToken](https://github.com/seeu-inspace/soliditytoken) This project aims to create a token called "SolidityToken $STK". The tokens are then distributed to users who request them from the "SolidityToken Faucet".
+- [SolidityToken](https://github.com/mekijah/solidity-token) This project aims to create a token called "SolidityToken $STK". The tokens are then distributed to users who request them from the "SolidityToken Faucet".
 
 ### Solidity
 - [1_Lottery-BlockVariable.sol](Solidity/1_Lottery-BlockVariable.sol) an example of a smart contract for a lottery system written in Solidity, using `block.timestamp` for randomness;
